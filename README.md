@@ -37,7 +37,6 @@ It provides insights into sales performance, product trends, and customer engage
 ## 🖼 Dashboard Preview
 
 ![Amazon Sales Dashboard](Amazon sales analysis/images/dashboard_preview.png)
-
 ---
 
 ## 📁 Project Structure
